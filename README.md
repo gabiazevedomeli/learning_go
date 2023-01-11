@@ -1,3 +1,3 @@
-<img src="https://miro.medium.com/max/1400/1*6cpbxQ20LVxiu5QCZPrwBw.webp" alt="golang" />
+<img src="https://i.imgur.com/1lVuCQk.jpg" alt="golang" width="1000" height="250px" align="center"/>
 
 # Learning GO
